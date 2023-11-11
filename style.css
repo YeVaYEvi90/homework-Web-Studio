@@ -1,0 +1,98 @@
+
+
+.logo{
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #2196F3;
+}
+.heder-logo{
+color: #000000;
+}
+.nav-list-link{
+font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color:#212121;
+}
+.contacts-list-link{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #757575;
+}
+.nav-list-link:hover,.contacts-list-link:hover{
+    color: #2196F3;
+}
+
+
+
+footer-logo{
+    font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0.03em;
+text-align: left;
+
+font-family: Oleo Script;
+font-size: 26px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
+.section-hero-title{
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 500;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    text-align: center;
+    color: #aaaaaa;
+    max-width: 698px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    height: 70px;
+    align-items: center;
+}
+
+.header-logo{
+
+    color: #000000;
+}
+
+
+.section-hero{
+    background-color: #2F303A;
+    padding-top: 200px;
+padding-bottom: 200px;
+}
+.nav-list,.contacts-list{
+    display: flex;
+    gap: 50px;
+}
+.section-hero-btn{
+width: 216px;
+height:50px ;
+border-radius: 4px ;
+color: #ffffff;
+margin:0 auto;
+display: block;
+border: none;
+background-color: #2196F3;
+}
